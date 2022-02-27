@@ -3,6 +3,7 @@ using System;
 using OpenQA.Selenium.Edge;
 using System.Threading;
 using System.IO;
+using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -11,13 +12,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string acc = "Vadimyass";
-            string password = "q_vadimyass";
+            string password = "rofl";
             string receiver = "the person you want to send to";
             string msg = "your messige";
             int msgnum = 100;
             EdgeOptions options = new EdgeOptions();
 
-            EdgeDriver driver = new EdgeDriver(Path.GetFullPath(@"V:/InstagramKek/ConsoleApp1/bin"), options);
+            EdgeDriver driver = new EdgeDriver(Path.GetFullPath(Directory.GetCurrentDirectory() + @"/Driver"), options);
             driver.Navigate().GoToUrl("https://www.instagram.com");
             driver.Manage().Window.Maximize();
             Thread.Sleep(1000);

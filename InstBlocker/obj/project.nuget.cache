@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DHufdzcLzLFEgGanYqH8uol7RGWRcrDjpOis6RXb+QccS8sb8cDGYpIqE7SAH7YPDcWtfHGxpWiiE1v9hkVb3g==",
+  "dgSpecHash": "yv92uT/I2MPe/FyynsGMpeRlqnJbQCAMLVoUhSBw3kCpzKxnNgdBrPJZXSauArjl2Rjvk/xxmV0nggQ2PPmrLA==",
   "success": true,
-  "projectFilePath": "V:\\InstagramKek\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vadim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Vadim\\.nuget\\packages\\selenium.support\\2.35.0\\selenium.support.2.35.0.nupkg.sha512",

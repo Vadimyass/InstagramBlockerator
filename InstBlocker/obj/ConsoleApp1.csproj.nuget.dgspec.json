@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\InstagramKek\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "V:\\InstagramKek\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\InstagramKek\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "V:\\InstagramKek\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "V:\\InstagramKek\\ConsoleApp1\\obj\\",
+        "outputPath": "V:\\InstagramBlockerator\\InstBlocker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
