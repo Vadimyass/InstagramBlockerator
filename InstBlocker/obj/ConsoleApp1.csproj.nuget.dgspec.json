@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj": {}
+    "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj": {
+    "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
+        "projectUniqueName": "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "V:\\InstagramBlockerator\\InstBlocker\\obj\\",
+        "projectPath": "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\IcePl\\.nuget\\packages\\",
+        "outputPath": "F:\\InstBlock\\InstBlocker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IcePl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
         }
       }
     }

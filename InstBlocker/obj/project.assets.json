@@ -151,19 +151,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vadim\\.nuget\\packages\\": {}
+    "C:\\Users\\IcePl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "V:\\InstagramBlockerator\\InstBlocker\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-      "outputPath": "V:\\InstagramBlockerator\\InstBlocker\\obj\\",
+      "projectPath": "F:\\InstBlock\\InstBlocker\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\IcePl\\.nuget\\packages\\",
+      "outputPath": "F:\\InstBlock\\InstBlocker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IcePl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -211,7 +211,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -220,7 +220,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Selenium.Support 2.35.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Selenium.Support 2.35.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Selenium.Support",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -230,7 +230,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'SeleniumWebDriverExtensions 1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"SeleniumWebDriverExtensions 1.0.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "SeleniumWebDriverExtensions",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
