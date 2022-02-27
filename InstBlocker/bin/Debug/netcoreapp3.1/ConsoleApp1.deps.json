@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.1.0",
+          "SeleniumWebDriverExtensions": "1.0.3"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.Support/2.35.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.1.0"
+        },
+        "runtime": {
+          "lib/net40/WebDriver.Support.dll": {
+            "assemblyVersion": "2.35.0.0",
+            "fileVersion": "2.35.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "SeleniumWebDriverExtensions/1.0.3": {
+        "dependencies": {
+          "Selenium.Support": "2.35.0",
+          "Selenium.WebDriver": "4.1.0"
+        },
+        "runtime": {
+          "lib/net40/Castle.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.2227"
+          },
+          "lib/net40/Ionic.Zip.dll": {
+            "assemblyVersion": "1.9.1.8",
+            "fileVersion": "1.9.1.8"
+          },
+          "lib/net40/SeleniumWebDriverExtensions.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.Support/2.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ejnnbQdQcslL6EJpkXGfDaD1BwDwOgAYh8EmUauEL0AlJi2QrBWH3Q98HO5wsdkJA2Eb1i0d74B3cjZOqbG02w==",
+      "path": "selenium.support/2.35.0",
+      "hashPath": "selenium.support.2.35.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d4smisz4a/wJCM2TzkKTl+BLfvZUTvaobhKElDfCVZlvY8ThsC8VAoBNWTlg1H/GGzIP//yVGko/W0FILTgkYA==",
+      "path": "selenium.webdriver/4.1.0",
+      "hashPath": "selenium.webdriver.4.1.0.nupkg.sha512"
+    },
+    "SeleniumWebDriverExtensions/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5WeF3WmL5pi5CSWRlK0fyOu10RbWbivRsJt3Mh8uHB66d3D+ur4KQ3L5zgUEDivVu7/O1N2Zr/DF33XvBDMr1w==",
+      "path": "seleniumwebdriverextensions/1.0.3",
+      "hashPath": "seleniumwebdriverextensions.1.0.3.nupkg.sha512"
+    }
+  }
+}
